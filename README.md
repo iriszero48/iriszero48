@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=iriszero48&label=Profile%20views&color=0e75b6&style=flat" alt="iriszero48"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iriszero48&show_icons=true&locale=en&layout=compact" alt="iriszero48"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iriszero48&show_icons=true&locale=en&layout=compact&count_private=true" alt="iriszero48"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iriszero48&show_icons=true&locale=en" alt="iriszero48"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iriszero48&show_icons=true&locale=en&count_private=true" alt="iriszero48"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriszero48&" alt="iriszero48"/>
