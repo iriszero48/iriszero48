@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=iriszero48&show_icons=true&locale=en&count_private=true" alt="iriszero48"/>
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iriszero48)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dff8f6ca-0183-409e-a72c-dc65ad6dad6e&layout=compact)]()
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriszero48&" alt="iriszero48"/>
