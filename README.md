@@ -111,3 +111,14 @@ Here are some ideas to get you started:
 [![BeagleBone Black](https://img.shields.io/badge/-BeagleBone%20Black-A97F2C?style=flat&logo=beagleboneblack&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](#)
 
+
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)](#)
+[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)](#)
+[![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)](#)
+[![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?style=flat&logo=gentoo&logoColor=white)](#)
+[![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)](#)
+[![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white)](#)
+
