@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)](#)
 [![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)](#)
 [![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?style=flat&logo=gentoo&logoColor=white)](#)
